@@ -1,4 +1,4 @@
-# Spotify Clone with ReactJS
+# Spotify Clone 
 
 This project is a simplified clone of the Spotify web interface, built using React. It aims to replicate the core functionalities and UI elements of Spotify, providing a learning experience for front-end development, particularly in React.
 
@@ -12,7 +12,7 @@ This project is a simplified clone of the Spotify web interface, built using Rea
 
 ## Technologies Used
 
-* **React:** JavaScript library for building user interfaces.
+
 * **CSS (or Styled-Components, Sass, etc.):** For styling the application.
 * **JavaScript (ES6+):** For application logic.
 * **Potentially other libraries:** (Check the `package.json` for a complete list).
