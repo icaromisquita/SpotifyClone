@@ -12,7 +12,6 @@ This project is a simplified clone of the Spotify web interface, built using Rea
 
 ## Technologies Used
 
-
 * **CSS (or Styled-Components, Sass, etc.):** For styling the application.
 * **JavaScript (ES6+):** For application logic.
-* **Potentially other libraries:** (Check the `package.json` for a complete list).
+
