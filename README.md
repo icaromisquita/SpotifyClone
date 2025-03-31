@@ -2,7 +2,7 @@
 
 This project is a simplified clone of the Spotify web interface. It aims to replicate the core functionalities and UI elements of Spotify, providing a learning experience for front-end development, deployed at [https://spotify-clone-three-opal.vercel.app/](https://spotify-clone-three-opal.vercel.app/).
 
-https://spotify-clone-three-opal.vercel.app/
+
 ## Features
 
 * **Basic UI Layout:** Replicates the main layout of Spotify's web player, including the sidebar, main content area, and bottom player controls.
